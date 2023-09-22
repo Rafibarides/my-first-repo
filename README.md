@@ -1,1 +1,2 @@
 # my-first-repo
+Hi, I'm Rafi Barides, a music producer based in Brooklyn, New York. I run a recording studio called RBM, where we work with a diverse range of clients. Specializing in various software like Logic Pro X and Final Cut Pro, I'm passionate about creating high-quality audio experiences. When I'm not in the studio, I'm constantly exploring ways to organize my workflow better due to my ADD
